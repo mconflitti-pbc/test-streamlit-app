@@ -1,0 +1,12 @@
+{
+    "http://localhost:3939/": {
+        "server_url": "http://localhost:3939/",
+        "filename": "/Users/mconflitti/Documents/repos/test-app",
+        "app_url": "http://localhost:3939/content/1707b233-15a0-4c62-b18d-5e4e55b8d8c4/",
+        "app_id": "1707b233-15a0-4c62-b18d-5e4e55b8d8c4",
+        "app_guid": "1707b233-15a0-4c62-b18d-5e4e55b8d8c4",
+        "title": "test-app",
+        "app_mode": "python-streamlit",
+        "app_store_version": 1
+    }
+}
